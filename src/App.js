@@ -34,7 +34,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          하지만 서영정은 똑똑하다.
+          하지만 서영정은 천재가 분명하다.
         </a>
       </header>
     </div>
