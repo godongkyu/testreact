@@ -35,7 +35,7 @@ function App() {
           rel="noopener noreferrer"
         >
           하지만 서영정은 천재가 분명하다.
-          그리고 난 똑똑하다.
+          그리고 난 똑똑하다....
         </a>
       </header>
     </div>
